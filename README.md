@@ -1,5 +1,7 @@
 # Trading Algorítmico para principiantes: de cero a héroe
-🇪🇸
+🇪🇸 Puedes apuntarte en nuestro curso en: https://cursos.frogamesformacion.com/courses/trading-algoritmico-2
+
+O obtener la Ruta completa de trading algorítmico en: https://cursos.frogamesformacion.com/bundles/ruta-trading 
 
 ### Recursos
 
